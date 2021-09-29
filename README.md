@@ -1,2 +1,2 @@
 # TalkySMPpack-OFFICIAL-
-The talkysmp modpack repo.
+This is the Git Repo used in the talkySmp modpack.
